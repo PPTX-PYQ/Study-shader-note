@@ -24,6 +24,7 @@ All rendering experiments are built from scratch without pre‑built shader temp
 - Visual‑angle detection based on vector dot‑product calculation
 
 ## List of practice chapters
+
 Part1 Trigonometric function
 Part2 Math‑f operation
 Part3 Camera movement script
