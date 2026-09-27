@@ -1,8 +1,27 @@
 # Unity Shader & C# Learning Practice
-This repository contains all my practice projects from Unity programming courses.
+This repository records my systematic practice of real‑time rendering and Unity programming, focusing on the fundamental theory of game rendering pipeline implemented with ShaderLab and HLSL.
 
-It consists of two main parts:
-1. C# scripts for basic game logic, such as object movement, visual‑range detection and interactive‑control functions.
-2. Custom shaders written in ShaderLab and HLSL from scratch. Classic rendering effects are realized, including Lambert and Phong lighting models, texture mapping, alpha‑test cut‑out transparency and alpha‑blend semi‑transparency.
+## Project Overview
+All rendering experiments are built from scratch without pre‑built shader templates. The practice covers core lighting models, texture sampling, normal mapping, gradient rendering and alpha transparency effects. C# scripts are developed for scene logic, object movement and visual‑field detection.
 
-This set of practices helps me master both game‑logic development and the basic mathematical principles of real‑time rendering.
+## Technical Contents
+1. Lighting Models
+- Lambert diffuse illumination
+- Phong & Blinn‑Phong specular reflection model
+- Half‑Lambert lighting
+
+2. Texture‑Related Implementation
+- Basic texture color sampling
+- Normal mapping in world‑space and tangent‑space
+- Gradient‑based stylized rendering
+
+3. Transparency
+- Alpha‑Test cut‑out transparency
+- Alpha‑Blend semi‑transparent effect with depth‑buffer control
+
+4. C# Interactive Logic
+- Object movement script
+- Visual‑angle detection based on vector dot‑product calculation
+
+## Supplementary Information
+A complete demonstration video showing the running effect of all shader cases is attached within my portfolio document for further review.
