@@ -24,24 +24,23 @@ All rendering experiments are built from scratch without pre‑built shader temp
 - Visual‑angle detection based on vector dot‑product calculation
   
 ## List of practice chapters
-
-Part1 Trigonometric function
-Part2 Math‑f operation
-Part3 Camera movement script
-Part4 Vector dot‑product & cross‑product
-Part5 Lambert lighting model
-Part6 Half‑Lambert lighting
-Part7 Phong specular reflection
-Part8 Phong lighting
-Part9 Blinn‑Phong lighting
-Part10 Blinn‑Phong comprehensive case
-Part11 Texture‑color sampling
-Part12 Texture combined with lighting
-Part13 Tangent‑space normal mapping
-Part14 World‑space normal mapping
-Part15 Gradient rendering(basic)
-Part16 Gradient rendering(comprehensive)
-Part17 Specular mask texture
-Part18 Alpha‑Test transparency
-Part19 Alpha‑Blend transparency with depth writing
-Part20 Double‑sided rendering
+- Part1 Trigonometric function
+- Part2 Math‑f operation
+- Part3 Camera movement script
+- Part4 Vector dot‑product & cross‑product
+- Part5 Lambert lighting model
+- Part6 Half‑Lambert lighting
+- Part7 Phong specular reflection
+- Part8 Phong lighting
+- Part9 Blinn‑Phong lighting
+- Part10 Blinn‑Phong comprehensive case
+- Part11 Texture‑color sampling
+- Part12 Texture combined with lighting
+- Part13 Tangent‑space normal mapping
+- Part14 World‑space normal mapping
+- Part15 Gradient rendering(basic)
+- Part16 Gradient rendering(comprehensive)
+- Part17 Specular mask texture
+- Part18 Alpha‑Test transparency
+- Part19 Alpha‑Blend transparency with depth writing
+- Part20 Double‑sided rendering
