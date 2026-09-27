@@ -22,7 +22,7 @@ All rendering experiments are built from scratch without pre‑built shader temp
 4. C# Interactive Logic
 - Object movement script
 - Visual‑angle detection based on vector dot‑product calculation
-
+  
 ## List of practice chapters
 
 Part1 Trigonometric function
